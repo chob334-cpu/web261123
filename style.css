@@ -197,3 +197,7 @@ h1, h2, h3 {
 
 .state-empty { display: none; color: #fff; }
 .board.is-empty + .state-empty { display: block; }
+
+body.dark {
+    background: #000;
+}
